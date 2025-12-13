@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs / coverage
+*.log
+coverage.xml
+.coverage*
+htmlcov/
+
+# Editors / tooling
+.vscode/
+.idea/
+
+# Local resources
+/resources
